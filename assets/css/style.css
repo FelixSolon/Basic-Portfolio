@@ -1,0 +1,91 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+article {
+	float: left;
+}
+
+aside {
+	width: 270px;
+	align-content: right;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	position: relative;
+	float: right;
+}
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 960px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	margin: 0 auto;
+	margin-top: 5rem;
+}
+
+div {
+	width: 650px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	margin: 0 auto;
+	position: relative;
+}
+
+header {
+	position: absolute;
+	top: 0px;
+}
+
+h1 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;.
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;.
+}
+
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;.
+
+}
+
+h4 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;.
+
+}
+
+h5 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;.
+
+}
+ 
+h6 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;.
+
+}
+
+.navBar {
+	float: right;
+	text-align: center;
+}
+
+p .navLink {
+	display: inline;
+}
+
+.nameBlock {
+	float: left;
+	width: 200px;
+}
