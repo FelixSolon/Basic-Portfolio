@@ -41,7 +41,7 @@ header {
 	top: 0px;
 	border-top-style: solid;
 	border-top-color: #ccc;
-	border-top-width: 1px;
+	border-top-width: 2px;
 	width: 100%;
 }
 
@@ -83,6 +83,7 @@ h6 {
 	margin-left: 30px;
 	width: 90%;
 	float: left;
+	padding-bottom: 30px;
 }
 
 #aside {
