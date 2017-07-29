@@ -1,3 +1,12 @@
+/*In a perfect world, I'd probably
+split this out into a few different CSS
+files to make it easier to manage.
+Probably into different folders for page-
+specific styles, like for the form, and
+break it down into IDs, classes, and element
+especially once a site gets larger. I'm sorta
+out of time though :-( */
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -184,7 +193,7 @@ a {
 .portfolioText {
 	position: absolute;
 	left: 0px;
-	top: 110px;
+	top: 117px;
 	background-color: #4aaaa5;
 	z-index: 1;
 	width: 233px;
